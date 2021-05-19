@@ -1,12 +1,12 @@
 # e-portfolio about Electron
 
-##Slides:
+## Slides:
 
 - You can find the slides [here](https://lorenzseufert.github.io/DHBW-SE-e-portfolio/)
 - The presentation is made with the html presentation framework [reveal.js](https://revealjs.com/)
 
 
-##Example Application:
+## Example Application:
 
 You can find the source code of the example application [here](https://github.com/LorenzSeufert/DHBW-SE-e-portfolio/tree/master/example-electron-application)
 
