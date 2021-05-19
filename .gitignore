@@ -11,3 +11,6 @@ tmp/**
 .sass-cache
 dist/*.map
 /example-electron-application/node_modules/
+/example-electron-application/dist/win-unpacked/
+/example-electron-application/dist/builder-debug.yml
+/example-electron-application/dist/builder-effective-config.yaml

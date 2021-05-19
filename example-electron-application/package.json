@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "dist": "electron-builder"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +16,12 @@
   },
   "dependencies": {
     "os-utils": "^0.0.14"
+  },
+  "build": {
+    "appId": "de.example-electron-application",
+    "productName": "ExampleApplication",
+    "win": {
+      "target": "portable"
+    }
   }
 }

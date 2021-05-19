@@ -9,11 +9,11 @@ body {
     height: 100%;
     padding: 3%;
     overflow: hidden;
-    background: #222;
+    background: #232931;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: #eeeeee;
 }
 .box {
     display: flex;
@@ -27,5 +27,5 @@ body {
 .label {
     font-size: 20px;
     font-weight: 600;
-    color: #efa;
+    color: #4ecca3;
 }

@@ -14,8 +14,8 @@ function createWindow(){
     window.loadFile('src/index.html')
 
     setInterval(() => {
-        os.cpuUsage(function(v){
-            window.webContents.send('cpu',v*100);
+        os.cpuUsage(function(x){
+            window.webContents.send('cpu',x*100);
             window.webContents.send('mem',os.freememPercentage()*100);
             window.webContents.send('total-mem',os.totalmem()/1024);
         });
