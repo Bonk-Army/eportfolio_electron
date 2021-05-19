@@ -13,7 +13,7 @@ You can find the source code of the example application [here](https://github.co
 You can run the application in two different ways:
 
 - If you don't want to install something and simply use the app, just download the .exe and execute it.
-- Or to clone the repo, and install the dependencies run following from you command line: (You need Node.js and npm!)
+- Or clone the repo, and install the dependencies. Just run following from you command line: (You need Node.js and npm!)
 ```bash
 # Clone the repository
 git clone https://github.com/LorenzSeufert/DHBW-SE-e-portfolio.git
