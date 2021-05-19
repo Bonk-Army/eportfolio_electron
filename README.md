@@ -1,4 +1,4 @@
-# e-portfolio about Electron
+# E-Portfolio about Electron
 
 ## Slides:
 
