@@ -2,13 +2,13 @@
 
 ## Slides:
 
-- You can find the slides [here](https://lorenzseufert.github.io/DHBW-SE-e-portfolio/)
+- You can find the slides [here](https://bonk-army.github.io/eportfolio_electron/)
 - The presentation is made with the html presentation framework [reveal.js](https://revealjs.com/)
 
 
 ## Example Application:
 
-You can find the source code of the example application [here](https://github.com/LorenzSeufert/DHBW-SE-e-portfolio/tree/master/example-electron-application)
+You can find the source code of the example application [here](https://github.com/Bonk-Army/eportfolio_electron/tree/master/example-electron-application)
 
 You can run the application in two different ways:
 
